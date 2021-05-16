@@ -2,3 +2,4 @@
  displayName: "Import code signing cert to agent"
  displayName: "Import code signing cert to agent"
  displayName: "Import code signing cert to agent"
+ displayName: "Import code signing cert to agent"
