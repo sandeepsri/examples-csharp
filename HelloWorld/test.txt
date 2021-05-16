@@ -1,1 +1,2 @@
  git config --global user.email "you@example.com"
+ displayName: "Import code signing cert to agent"
